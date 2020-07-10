@@ -1,4 +1,4 @@
-## Migrating to auto host endpoints
+[##](##) Migrating to auto host endpoints
 
 > **Important**: Auto host endpoints have an allow-all profile attached which allows all traffic in the absence of network policy.
 > This may result in unexpected behavior and data.
